@@ -28,6 +28,6 @@ THEN I can save my initials and my score
 * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array#description
 * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for
 * https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage
-
+## LInks
 * Git hub https://github.com/osayenko0315/Web-API-S-code-quiz
-* 
+* Page https://osayenko0315.github.io/Web-API-S-code-quiz/
