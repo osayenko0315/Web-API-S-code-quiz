@@ -1,5 +1,6 @@
 # Web-API-S-code-quiz
 
+
 ## User Story
 
 ```
@@ -23,3 +24,7 @@ THEN the game is over
 WHEN the game is over
 THEN I can save my initials and my score
 ```
+##Resources
+* https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array#description
+* https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for
+* https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage
