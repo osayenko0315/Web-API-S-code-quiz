@@ -1,9 +1,8 @@
 let questions = [
     {
-        numb: 1,
         question: "JavaScript is which type of language?",
         answer: "Object-Based",
-        options: [
+        choices: [
             "Object-Oriented",
             "Object-Based",
             "Assembly-language",
@@ -11,33 +10,28 @@ let questions = [
         ]
     },
     {
-        numb: 2,
+       
         question: "What html tag is NOT included in the HEAD tag?",
-        answer: "header"
-        options: [
-            "link", 
-            "meta", 
-            "title", 
-            "header"
-        ],
+        answer: "header",
+        choices:["link", 
+        "meta", 
+        "title", 
+        "header"]       
 
     },
     {
-        numb: 3,
-        question: "JavaScript is interpreted by _________",
+        question: "JavaScript is interpreted by",
         answer: "Client",
-        options: [
+        choices: [
             "Client",
             "Server",
-            "Object",
             "None of the above",
         ]
     },
     {
-        numb: 4,
         question: "Which of the following is not a valid JavaScript variable name?",
         answer: "2names",
-        options: [
+        choices: [
             "2names",
             "_first_and_last_names",
             "FirstAndLast",
@@ -45,14 +39,13 @@ let questions = [
         ]
     },
     {
-        numb: 5,
-        question: "The _______ method of an Array object adds and/or removes elements from an array.",
-        answer: "Slice",
-        options: [
-            "Reverse",
-            "Shift",
-            "Slice",
-            "Splice",
+        question: "Which CSS property controls text size?",
+        answer: "font-size",
+        choices: [
+            "font-size", 
+            "text-size", 
+            "font-style", 
+            "size"
         ]
     },
 ]
