@@ -12,14 +12,15 @@ let questions = [
     },
     {
         numb: 2,
-        question: "When interpreter encounters an empty statement, what will it do?",
-        answer: "Ignore the statement",
+        question: "What html tag is NOT included in the HEAD tag?",
+        answer: "header"
         options: [
-            "Show a warning",
-            "Prompt to complete the statement",
-            "Throw an error",
-            "Ignore the statement",
-        ]
+            "link", 
+            "meta", 
+            "title", 
+            "header"
+        ],
+
     },
     {
         numb: 3,
@@ -45,7 +46,7 @@ let questions = [
     },
     {
         numb: 5,
-        question : "The _______ method of an Array object adds and/or removes elements from an array.",
+        question: "The _______ method of an Array object adds and/or removes elements from an array.",
         answer: "Slice",
         options: [
             "Reverse",
@@ -54,26 +55,4 @@ let questions = [
             "Splice",
         ]
     },
-    {
-        numb: 6,
-        question : "Using _______ statement is how you test for a specific condition.",
-        answer: "If",
-        options: [
-            "Select",
-            "If",
-            "Switch",
-            "For",
-        ]
-    },
-    {
-        numb: 7,
-        question : "Which of the following is not considered a JavaScript operator?",
-        answer: "delete",
-        options: [
-            "new",
-            "this",
-            "delete",
-            "typeof",
-        ]
-    },
-];
+]
